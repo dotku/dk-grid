@@ -12,6 +12,7 @@
 | PPE | Jointown |
 | PPE | Intco |
 | PPE | 3M |
+| PPE | SkyPro 弓立 |
 | Media | NPMedia (负负得正) |
 | Finance | Overseas United |
 | Fashion | StevenMadden |
