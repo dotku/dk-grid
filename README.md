@@ -7,6 +7,7 @@
 | PPE | TOL |
 | PPE | Sequoia (徽商) |
 | PPE | ZY Trade International |
+| PPE | MIC |
 | PPE | Cranberry |
 | PPE | Jointown |
 | Media | NPMedia (负负得正) |
