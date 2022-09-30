@@ -4,10 +4,6 @@
 | Energy | CARKU 卡儿酷 | 车用应急电源 |
 | Bike | OUXI 欧希 | 电动自行车 |
 | Commercial Business | JD 京东 | 电子商务与贸易 |
-| PPE | TOL | 医疗器械 |
-| PPE | Sequoia (徽商) | 医疗器械 |
-| Commercial Business | ZY Trade International 紫悦国际 | 跨国贸易 |
-| PPE | MIC 冰魔方 | 医疗器械 |
 | PPE | Cranberry 蔓越莓 | 手套工厂，医疗器械 |
 | PPE | Jointown 九州通 | 防护服、口罩、针管等医疗器械 |
 | PPE | Intco 英科 | 手套、口罩等医疗器械 |
