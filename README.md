@@ -14,3 +14,7 @@
 | Media | NPMedia 负负得正影视传媒 | 影视、互联网 |
 | Finance | Overseas United 海联工委 | 创投 |
 | Fashion | Steven Madden 史蒂夫 马登| 鞋具 |
+| Government | Guandong ||
+| Government | Fujian ||
+| Government | California ||
+| Government | New York ||
