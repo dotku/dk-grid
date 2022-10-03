@@ -1,5 +1,6 @@
 | Domain | Companies | Business
 | --- | --- | --- |
+| Energy | 叭盾 | 充电头 |
 | Energy | CTECHi 驰普 | 储能电源 |
 | Energy | CARKU 卡儿酷 | 车用应急电源 |
 | Bike | OUXI 欧希 | 电动自行车 |
