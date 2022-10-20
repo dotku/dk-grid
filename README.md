@@ -11,6 +11,7 @@
 | PPE | Cranberry 蔓越莓 | 制造商 | 手套 |
 | PPE | Intco 英科 | 制造商 | 手套、口罩 |
 | PPE | Jointown 九州通 | 制造商 | 防护服、口罩、注射器 |
+| PPE | Arun 海陆通 | 制造商 | KN95、移动电源 |
 | PPE | 3M | 制造商 | 口罩 |
 | PPE | Boson 波生 | 制造商 | 试剂 |
 | PPE | SkyPro 弓立 | 制造商 | 口罩 |
