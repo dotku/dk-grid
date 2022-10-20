@@ -1,5 +1,5 @@
 | Domain | Companies | Type | Business |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Energy | 叭盾 | 制造商/贸易 | 充电头、贸易服务 |
 | Energy | CTECHi 驰普 | 制造商 | 储能电源 |
 | Energy | CARKU 卡儿酷 | 制造商 | 车用应急电源 |
@@ -17,12 +17,12 @@
 | PPE | TOLGlobalHealth | 经销商 | 试剂、手套、口罩、拐杖 |
 | PPE | ZY Ineternational | 经销商 | KF94 口罩、手套、试剂 |
 | PPE | Syndicate One Group Inc | 经销商 | 针头、手套、口罩 |
-| Media | NPMedia 负负得正影视传媒 | 制片 ｜ 影视、互联网 |
+| Media | NPMedia 负负得正影视传媒 | 制片 | 影视、互联网 |
 | Finance | Overseas United 海联工委 | 国有企业 | 创投 |
 | Fashion | Steven Madden 史蒂夫 马登 | 品牌商 | 鞋具 |
 | Government | Guandong | 政府 ||
-| Government | Fujian | 政府 |
-| Government | California | 政府 |
-| Government | New York | 政府 |
-| Government | Federal | 政府 |
-| Government | Beijing | 政府 |
+| Government | Fujian | 政府 ||
+| Government | California | 政府 ||
+| Government | New York | 政府 ||
+| Government | Federal | 政府 ||
+| Government | Beijing | 政府 ||
