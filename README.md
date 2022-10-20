@@ -12,6 +12,8 @@
 | PPE | SkyPro 弓立 | 口罩 |
 | PPE | Boson 波生 | 试剂 |
 | PPE | iHealth 九安 | 试剂、脉搏检测仪 |
+| PPE | ZY Ineternational | KF94 口罩、手套、试剂 |
+| PPE | Syndicate One Group Inc | 针头、手套、口罩 |
 | Media | NPMedia 负负得正影视传媒 | 影视、互联网 |
 | Finance | Overseas United 海联工委 | 创投 |
 | Fashion | Steven Madden 史蒂夫 马登| 鞋具 |
